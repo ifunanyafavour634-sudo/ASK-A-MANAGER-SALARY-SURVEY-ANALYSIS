@@ -51,10 +51,8 @@ The project will follow these stages:
 5. Analysis by education
 6. Analysis by age
 7. Analysis by gender
-8. Analysis by industry and job role
-9. Additional compensation analysis
-10. Currency-specific analysis
-11. Key findings and conclusions
+8. Currency-specific analysis
+9. Key findings and conclusions
 
 ## Project Status
 Completed ✅
