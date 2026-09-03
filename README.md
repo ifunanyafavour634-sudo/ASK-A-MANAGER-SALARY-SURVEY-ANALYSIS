@@ -37,8 +37,8 @@ Because respondents reported salaries in different currencies, salary comparison
 * PivotTables
 * PivotCharts
 * Data cleaning and exploratory analysis
-[Ask A Manager Salary Survey 2021 (Responses). WORK BOOK.xlsx](https://github.com/user-attachments/files/31790350/Ask.A.Manager.Salary.Survey.2021.Responses.WORK.BOOK.xlsx)
-[Ask A Manager Salary Survey 2021 (Responses). WORK BOOK.xlsx](https://github.com/user-attachments/files/31790312/Ask.A.Manager.Salary.Survey.2021.Responses.WORK.BOOK.xlsx)
+
+  
 
 ## Analysis Approach
 
