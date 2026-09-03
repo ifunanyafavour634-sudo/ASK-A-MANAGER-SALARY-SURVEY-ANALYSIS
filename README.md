@@ -16,10 +16,7 @@ This analysis will investigate:
 * Does education level relate to salary?
 * Which age groups report higher salaries?
 * How does reported salary vary by gender?
-* Which industries report higher salaries?
-* Which job roles report higher salaries?
 * Does experience in a respondent's field relate to salary?
-* Who receives additional compensation?
 * How do salary patterns differ across currencies?
 
 ## Dataset
@@ -40,6 +37,8 @@ Because respondents reported salaries in different currencies, salary comparison
 * PivotTables
 * PivotCharts
 * Data cleaning and exploratory analysis
+[Ask A Manager Salary Survey 2021 (Responses). WORK BOOK.xlsx](https://github.com/user-attachments/files/31790350/Ask.A.Manager.Salary.Survey.2021.Responses.WORK.BOOK.xlsx)
+[Ask A Manager Salary Survey 2021 (Responses). WORK BOOK.xlsx](https://github.com/user-attachments/files/31790312/Ask.A.Manager.Salary.Survey.2021.Responses.WORK.BOOK.xlsx)
 
 ## Analysis Approach
 
@@ -58,16 +57,21 @@ The project will follow these stages:
 11. Key findings and conclusions
 
 ## Project Status
+Completed ✅
 
-🟡 **In progress**
-
-This repository will be updated as the analysis progresses.
+The analysis, dashboard, key findings, and documentation have been completed. The repository contains the project files and supporting documentation for the analysis.
 
 ## Key Findings
-
-*To be completed after the analysis.*
+Age: Reported salary generally increased across older adult age groups, although the pattern was not perfectly consistent across all currencies.
+Overall Professional Experience: More years of professional experience generally corresponded with higher reported salary, but the relationship was not completely linear.
+Experience in the Field: The 21–30 years experience group recorded the highest average salary in USD, CAD, and EUR, while GBP peaked at 31–40 years.
+Education: Professional-degree holders recorded the highest average salary in USD, CAD, and GBP, while EUR showed a different pattern.
+Gender: Men recorded the highest average reported salary across USD, CAD, GBP, and EUR. This represents an association in the survey data, not causation.
 
 ## Conclusion
+This project transformed the Ask A Manager Salary Survey 2021 into a structured cross-currency salary analysis. The findings show that age, professional experience, and experience in the field generally corresponded with higher reported salaries, while education showed a more varied pattern across currencies.
 
-*To be completed after the analysis.*
+The most consistent pattern was observed in the gender analysis, where men recorded the highest average reported salary across all four currency groups.
+
+Overall, this project gave me practical experience in data preparation, PivotTable analysis, data visualization, dashboard development, and communicating insights from a real-world dataset using Microsoft Excel.
 
