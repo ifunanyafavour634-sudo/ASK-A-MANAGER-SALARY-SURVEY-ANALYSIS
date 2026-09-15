@@ -38,7 +38,7 @@ My analysis and findings focus on the following key areas:
 The analysis was conducted in Microsoft Excel using formulas, PivotTables, PivotCharts, and a dashboard to analyze and visualize the salary patterns across the selected currency groups.
  
 ## DATA STRUCTURE
-** DATA MODEL **
+**DATA MODEL**
 
 The analysis was built from a single survey dataset containing 28,498 responses and 18 columns.
 
@@ -95,7 +95,7 @@ Gender: Men recorded the highest average reported salary across all four currenc
 These findings highlight both consistent and varying salary patterns across the four currency groups, providing a basis for deeper analysis of the individual factors.
 
 ## INSIGHTS DEEP DIVE
-1.** AGE & SALARY **
+1.**AGE & SALARY**
 
 Age generally showed a positive association with average reported salary across the four currency groups.
 
@@ -103,7 +103,7 @@ In USD, average salary increased from $67,307 for respondents aged 18–24 to $1
 
 The results indicate that older adult respondents generally reported higher average salaries, although the pattern was not consistently linear across every currency group.
 
-2. ** OVERALL PROFESSIONAL EXPERIENCE & SALARY **
+2. **OVERALL PROFESSIONAL EXPERIENCE & SALARY**
 
 Overall professional experience generally corresponded with higher reported salary, particularly across the early and middle experience categories.
 
@@ -113,7 +113,7 @@ In GBP, the highest average salary was recorded among respondents with 21–30 y
 
 Overall, the analysis suggests that greater professional experience is associated with higher reported salary, but the relationship is not perfectly linear across all currencies.
 
-3. **  EXPERIENCE IN THE FIELD & SALARY **
+3. **EXPERIENCE IN THE FIELD & SALARY**
 
 Experience in the field produced one of the clearest patterns in the analysis.
 
@@ -123,7 +123,7 @@ Average salary generally increased from the lower experience categories toward t
 
 This indicates that substantial experience within a respondent's field is consistently associated with higher reported salary across the major currency groups.
 
-4. EDUCATION & SALARY
+4. **EDUCATION & SALARY**
 
 Education showed a less consistent relationship with reported salary.
 
@@ -133,7 +133,7 @@ EUR produced a different result, with the High School category recording the hig
 
 This variation indicates that education level did not produce the same salary pattern across all four currency groups.
 
-5. GENDER & SALARY
+5. **GENDER & SALARY**
 
 Gender produced the most consistent pattern across the analysis.
 
@@ -149,56 +149,57 @@ This consistent pattern makes gender one of the strongest cross-currency observa
 
 ## ASSUMPTIONS AND CAVEATS
 
-** Currency **: The analysis focuses on USD, CAD, GBP, and EUR because they were the four most represented currency groups in the dataset. Salary amounts were analyzed separately by currency rather than directly compared across currencies.
+**Currency**: The analysis focuses on USD, CAD, GBP, and EUR because they were the four most represented currency groups in the dataset. Salary amounts were analyzed separately by currency rather than directly compared across currencies.
 Uneven currency representation: The number of responses varied substantially across the 11 currencies in the dataset. The less-represented currencies were not included in the main cross-currency analysis.
 
-** Self-reported data **: Salary and other survey information were provided by respondents and could not be independently verified.
+**Self-reported data**: Salary and other survey information were provided by respondents and could not be independently verified.
 Association, not causation: The analysis identifies relationships between reported salary and the selected variables. It does not establish that age, gender, education, or experience directly causes salary differences.
 Variable selection: The analysis focused on five variables: age, gender, education, overall professional experience, and experience in the field. Other available variables were outside the scope of the analysis.
 
-** Highly fragmented categories ** : Job titles and occupations/job fields contained many unique responses and were therefore excluded from the main analysis because consistent grouping was not practical.
+**Highly fragmented categories** : Job titles and occupations/job fields contained many unique responses and were therefore excluded from the main analysis because consistent grouping was not practical.
 
-** Average salary ** : The analysis uses average salary, which can be influenced by unusually high or low reported salary values.
+**Average salary** : The analysis uses average salary, which can be influenced by unusually high or low reported salary values.
 Small categories: Some categories contained relatively few responses. Their averages should therefore be interpreted with greater caution than categories with larger numbers of observations.
 
 ## RECOMMENDATIONS
 
 Based on the findings from the salary analysis, the following recommendations are proposed:
 
-1. Strengthen experience-based salary benchmarking
+**1. Strengthen experience-based salary benchmarking**
 
 Organizations should consider overall professional experience and experience within the field when reviewing salary structures. The analysis shows that respondents with substantial experience generally reported higher average salaries, particularly within the 21–30-year experience range.
 
-2. Review compensation differences across gender groups
+**2. Review compensation differences across gender groups**
 
 The consistent difference observed across all four currency groups highlights the importance of regular compensation reviews. Organizations can use structured salary analysis to identify and investigate differences in reported pay across demographic groups.
 
-3. Consider relevant field experience in compensation decisions
+**3. Consider relevant field experience in compensation decisions**
 
 Experience within a specific field showed a particularly strong association with reported salary. Compensation frameworks should therefore consider relevant field experience alongside overall professional experience.
 
-4. Evaluate education alongside other factors
+**4. Evaluate education alongside other factors**
 
 Education should not be treated as a standalone indicator of salary. The results varied across currencies, suggesting that experience, role, industry, and other professional characteristics should also be considered when evaluating compensation.
 
-5. Use data-driven salary benchmarking
+**5. Use data-driven salary benchmarking**
 
 Salary survey data can support compensation benchmarking and help organizations understand broader salary patterns. However, decisions should be based on sufficiently representative data and should account for differences in roles, industries, experience levels, and other relevant characteristics.
 
 ## ASSUMPTIONS AND CAVEATS
 
-Currency: The analysis focuses on USD, CAD, GBP, and EUR because they were the four most represented currency groups in the dataset. Salary amounts were analyzed separately by currency rather than directly compared across currencies.
+**Currency:** The analysis focuses on USD, CAD, GBP, and EUR because they were the four most represented currency groups in the dataset. Salary amounts were analyzed separately by currency rather than directly compared across currencies.
 Uneven currency representation: The number of responses varied substantially across the 11 currencies in the dataset. The less-represented currencies were not included in the main cross-currency analysis.
 
-Self-reported data: Salary and other survey information were provided by respondents and could not be independently verified.
+**Self-reported data:** Salary and other survey information were provided by respondents and could not be independently verified.
 Association, not causation: The analysis identifies relationships between reported salary and the selected variables. It does not establish that age, gender, education, or experience directly causes salary differences.
 
-Variable selection: The analysis focused on five variables: age, gender, education, overall professional experience, and experience in the field. Other available variables were outside the scope of the analysis.
+**Variable selection:** The analysis focused on five variables: age, gender, education, overall professional experience, and experience in the field. Other available variables were outside the scope of the analysis.
 
-Highly fragmented categories: Job titles and occupations/job fields contained many unique responses and were therefore excluded from the main analysis because consistent grouping was not practical.
+**Highly fragmented categories:** Job titles and occupations/job fields contained many unique responses and were therefore excluded from the main analysis because consistent grouping was not practical.
 
-Average salary: The analysis uses average salary, which can be influenced by unusually high or low reported salary values.
-Small categories: Some categories contained relatively few responses. Their averages should therefore be interpreted with greater caution than categories with larger numbers of observations.
+**Average salary:** The analysis uses average salary, which can be influenced by unusually high or low reported salary values.
+
+**Small categories:** Some categories contained relatively few responses. Their averages should therefore be interpreted with greater caution than categories with larger numbers of observations.
  
 ## NEXT STEPS
 Expand the analysis to include the other currencies in the dataset where sufficient response volumes are available.
