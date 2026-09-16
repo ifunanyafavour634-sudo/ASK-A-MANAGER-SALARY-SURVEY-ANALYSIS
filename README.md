@@ -185,22 +185,6 @@ Education should not be treated as a standalone indicator of salary. The results
 
 Salary survey data can support compensation benchmarking and help organizations understand broader salary patterns. However, decisions should be based on sufficiently representative data and should account for differences in roles, industries, experience levels, and other relevant characteristics.
 
-## ASSUMPTIONS AND CAVEATS
-
-**Currency:** The analysis focuses on USD, CAD, GBP, and EUR because they were the four most represented currency groups in the dataset. Salary amounts were analyzed separately by currency rather than directly compared across currencies.
-Uneven currency representation: The number of responses varied substantially across the 11 currencies in the dataset. The less-represented currencies were not included in the main cross-currency analysis.
-
-**Self-reported data:** Salary and other survey information were provided by respondents and could not be independently verified.
-Association, not causation: The analysis identifies relationships between reported salary and the selected variables. It does not establish that age, gender, education, or experience directly causes salary differences.
-
-**Variable selection:** The analysis focused on five variables: age, gender, education, overall professional experience, and experience in the field. Other available variables were outside the scope of the analysis.
-
-**Highly fragmented categories:** Job titles and occupations/job fields contained many unique responses and were therefore excluded from the main analysis because consistent grouping was not practical.
-
-**Average salary:** The analysis uses average salary, which can be influenced by unusually high or low reported salary values.
-
-**Small categories:** Some categories contained relatively few responses. Their averages should therefore be interpreted with greater caution than categories with larger numbers of observations.
- 
 ## NEXT STEPS
 Expand the analysis to include the other currencies in the dataset where sufficient response volumes are available.
 Investigate additional variables from the survey that may provide further context around reported salary differences.
