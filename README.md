@@ -1,4 +1,5 @@
 # ASK A MANAGER SALARY SURVEY 2021 — CROSS-CURRENCY SALARY ANALYSIS
+<img width="965" height="454" alt="Screenshot 2026-08-15 195552" src="https://github.com/user-attachments/assets/33f5c0f8-f96e-4861-8d4c-ec4f43d4d7ed" />
 
 # TABLE OF CONTENTS
 
